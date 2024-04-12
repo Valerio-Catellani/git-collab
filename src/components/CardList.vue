@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <h4 class="text-center">Scelta dei loghi per locale</h4>
-        <div class="card-list  d-flex gap-5">
+        <div class="card-list">
             <CardComponent />
         </div>
     </div>
